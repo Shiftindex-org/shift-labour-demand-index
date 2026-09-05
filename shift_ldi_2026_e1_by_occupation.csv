@@ -1,0 +1,24 @@
+occupation_key,occupation_label,ai_exposure_class,world_count_change,direction_status,markets_visible,markets_with_fewer_postings
+accounting_finance,Accounting & bookkeeping,AI-exposed,rose,published (robust),22,7
+admin_clerical,Administrative & clerical,AI-exposed,rose,not published,20,3
+agriculture,Agriculture & landscaping,AI-resilient,rose,published (robust),8,1
+sales_b2b,B2B / field sales,AI-exposed,rose,published (robust),21,10
+personal_services,"Cleaning, food & security",AI-resilient,rose,published (robust),17,0
+construction,Construction & building trades,AI-resilient,rose,published (robust),12,1
+customer_support,Customer support & call center,AI-exposed,rose,published (robust),19,6
+data_analytics,Data analysts & entry,AI-exposed,fell,published (robust),21,8
+transport_driver,Drivers & transport,AI-resilient,rose,published (robust),16,1
+electrical,Electricians,AI-resilient,rose,not published,14,3
+legal_support,Legal support,AI-exposed,rose,not published,8,2
+marketing_content,"Marketing, content & translation",AI-exposed,fell,published (robust),18,13
+mechanic_maintenance,Mechanics & maintenance techs,AI-resilient,rose,published (sensitive),18,4
+healthcare_frontline,Nurses & care workers,AI-resilient,rose,published (robust),14,1
+healthcare_physicians,Physicians & doctors,AI-resilient,rose,published (robust),11,1
+plumbing,Plumbers & pipefitters,AI-resilient,rose,published (robust),7,1
+production_operator,Production & machine operators,AI-resilient,rose,published (robust),12,2
+real_estate_broker,Real-estate agents/brokers,AI-resilient,rose,not published,9,4
+retail_sales,Retail & shop assistants,AI-resilient,rose,published (robust),22,1
+software_dev,Software developers,AI-exposed,fell,published (robust),24,21
+teaching,Teachers,AI-resilient,rose,published (robust),17,2
+warehouse_logistics,Warehouse & logistics,AI-resilient,rose,published (robust),11,1
+welding_metal,Welders & metalworkers,AI-resilient,rose,published (sensitive),13,3
