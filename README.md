@@ -65,7 +65,9 @@ each one.
 ## Cite this dataset
 
 > Covas, J. (2026). *SHIFT Labour Demand Index 2024–2026 (Edition 1)* [Data set].
-> DOI: _to be assigned_
+> SHIFT Research. https://doi.org/10.5281/zenodo.22346056
+
+DOI: `10.5281/zenodo.22346056`
 
 ## Version
 
